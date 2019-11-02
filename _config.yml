@@ -1,0 +1,24 @@
+# Site settings
+title: REPL Games
+email: your-email@domain.com
+url: http://replgames.com
+description: "A video game studio based in Portland Oregon. Please check back later for more information on our latest game!"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: REPL Games
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/replgames
+  - title: github
+    url: https://github.com/replgames
+
+# Build settings
+markdown: kramdown
+permalink: pretty
