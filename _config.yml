@@ -18,6 +18,8 @@ social:
     url: https://twitter.com/replgames
   - title: github
     url: https://github.com/replgames
+  - title: itch-io
+    url: https:/briancain.itch.io
 
 # Build settings
 markdown: kramdown
